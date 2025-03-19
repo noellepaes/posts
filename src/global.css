@@ -8,7 +8,10 @@
     --gray-800: #202024;
     --gray-900: #121214;
 
+    --green-300: #f58bd5fd;
     --green-500: #dd11a0fd;
+
+    --red-500: #f54c5a;
 }
 
 * {
@@ -31,3 +34,8 @@ button {
     font-weight: 400;
     font-size: 1rem;
 }
+
+:focus {
+    outline: transparent;
+    box-shadow: 0 0 0 2px var(--green-500);
+  }

@@ -1,5 +1,5 @@
 import { Header } from './componets/Header';
-import { Post } from './Post'
+import { Post } from './componets/Post'
 import { Sidebar } from './componets/Sidebar';
 import styles from './App.module.css';
 import './global.css';

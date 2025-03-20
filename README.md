@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Vue JS To Do List
+## React JS blog
 This application is an React blog. Enjoy It <3
 
 
@@ -51,7 +51,7 @@ The main features of the application are:
 
   ## Authors
 
-  * **Lucas Siqueira Fernandes** 
+  * **Noelle Paes** 
 
   Please follow github and join us!
   Thanks to visiting me and good coding!

@@ -27,8 +27,8 @@ Here are the technologies used in this project.
 
 ## Screens
 
-![Homepage image]https://github.com/noellepaes/posts/issues/5#issue-2933767038
-![Homepage image]https://github.com/noellepaes/posts/issues/5#issuecomment-2738881354
+![Image](https://github.com/user-attachments/assets/27d14c59-3449-4297-8186-606294e39d56)
+![Image](https://github.com/user-attachments/assets/c8d92be6-9dd6-4857-babf-facb2010eb06)
 
 
 ## Features

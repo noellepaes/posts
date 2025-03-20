@@ -8,9 +8,9 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://github.com/diego3g.png',
-      name: 'Diego Fernandes',
-      role: 'CTO '
+      avatarUrl: 'https://github.com/noellepaes.png',
+      name: 'Noelle Paes',
+      role: 'Full stack'
     },
     content: [
       { type: 'paragraph', content: 'Fala galera 👋' },
